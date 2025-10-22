@@ -1,0 +1,101 @@
+ID_Prestamo,ID_Cliente,ID_Sucursal,Monto,Tipo,Estado
+1,92,3,17368,Personal,En proceso
+2,30,4,35468,Automotriz,En proceso
+3,16,1,15105,Personal,Rechazado
+4,42,2,30656,Hipotecario,En proceso
+5,12,4,32624,Automotriz,Rechazado
+6,31,2,31281,Automotriz,Aprobado
+7,78,2,16349,Personal,En proceso
+8,83,2,47847,Hipotecario,Aprobado
+9,11,2,10980,Hipotecario,En proceso
+10,72,4,9189,Personal,Aprobado
+11,22,4,20446,Personal,Rechazado
+12,25,2,16637,Personal,Rechazado
+13,45,1,40363,Automotriz,Aprobado
+14,46,2,16534,Automotriz,Rechazado
+15,25,2,14417,Automotriz,Aprobado
+16,7,1,40750,Hipotecario,Rechazado
+17,26,4,37479,Automotriz,Rechazado
+18,82,3,28882,Hipotecario,En proceso
+19,54,2,5824,Personal,Aprobado
+20,37,3,21325,Automotriz,Rechazado
+21,91,1,13944,Hipotecario,En proceso
+22,85,3,41755,Automotriz,Aprobado
+23,47,1,25500,Hipotecario,Rechazado
+24,39,2,5979,Personal,En proceso
+25,52,4,41383,Hipotecario,Aprobado
+26,1,3,30976,Personal,Rechazado
+27,61,3,18470,Personal,Rechazado
+28,90,3,42795,Personal,Rechazado
+29,60,3,44102,Personal,Aprobado
+30,41,1,25828,Personal,En proceso
+31,58,4,25153,Personal,Aprobado
+32,50,3,14335,Personal,Aprobado
+33,17,4,30144,Hipotecario,En proceso
+34,2,2,12385,Personal,Rechazado
+35,82,1,33551,Automotriz,En proceso
+36,35,1,31528,Personal,Rechazado
+37,51,3,8619,Automotriz,Rechazado
+38,87,1,27145,Hipotecario,Rechazado
+39,16,4,11845,Personal,Rechazado
+40,21,2,43383,Automotriz,En proceso
+41,67,2,5835,Automotriz,Rechazado
+42,43,1,29213,Hipotecario,Aprobado
+43,68,2,18238,Automotriz,En proceso
+44,83,2,13355,Hipotecario,En proceso
+45,67,1,19571,Automotriz,Rechazado
+46,94,4,12838,Personal,En proceso
+47,60,1,23964,Hipotecario,Aprobado
+48,62,2,42247,Automotriz,Rechazado
+49,67,1,47984,Personal,En proceso
+50,48,2,39735,Personal,Aprobado
+51,8,3,35003,Automotriz,En proceso
+52,69,4,35788,Hipotecario,Rechazado
+53,36,2,36728,Personal,Rechazado
+54,94,1,7025,Hipotecario,Rechazado
+55,19,1,14105,Personal,Aprobado
+56,80,3,32444,Automotriz,En proceso
+57,12,3,39722,Automotriz,En proceso
+58,85,1,42702,Hipotecario,En proceso
+59,29,3,23853,Hipotecario,Aprobado
+60,60,2,22732,Automotriz,En proceso
+61,33,3,20244,Hipotecario,Aprobado
+62,90,3,32365,Personal,En proceso
+63,63,3,38383,Personal,Aprobado
+64,93,1,24366,Automotriz,En proceso
+65,100,1,27868,Automotriz,Aprobado
+66,96,2,27834,Automotriz,Rechazado
+67,88,4,18698,Hipotecario,En proceso
+68,82,2,33200,Hipotecario,En proceso
+69,28,4,20817,Automotriz,Aprobado
+70,8,3,38119,Automotriz,Aprobado
+71,50,1,14506,Personal,En proceso
+72,54,2,5849,Hipotecario,En proceso
+73,99,4,43302,Automotriz,Rechazado
+74,64,3,5680,Automotriz,Rechazado
+75,42,2,23028,Automotriz,En proceso
+76,12,4,27778,Automotriz,Aprobado
+77,89,4,25932,Automotriz,Rechazado
+78,16,4,33016,Personal,Rechazado
+79,96,2,46006,Personal,Rechazado
+80,62,1,15670,Hipotecario,Rechazado
+81,57,3,47602,Automotriz,En proceso
+82,47,4,37789,Personal,En proceso
+83,47,1,13895,Personal,Aprobado
+84,38,1,30066,Personal,Rechazado
+85,51,4,21802,Personal,En proceso
+86,90,2,34152,Automotriz,Aprobado
+87,22,3,23161,Hipotecario,En proceso
+88,94,3,25543,Personal,Rechazado
+89,15,1,16236,Automotriz,En proceso
+90,84,3,43243,Automotriz,Rechazado
+91,82,3,11944,Hipotecario,En proceso
+92,73,3,28847,Automotriz,Aprobado
+93,39,2,47464,Hipotecario,Rechazado
+94,53,3,43990,Personal,Rechazado
+95,48,3,5717,Personal,Aprobado
+96,85,1,6103,Personal,Aprobado
+97,14,2,31252,Personal,Rechazado
+98,87,1,6354,Automotriz,Aprobado
+99,16,2,19672,Automotriz,Rechazado
+100,49,4,23907,Personal,En proceso
